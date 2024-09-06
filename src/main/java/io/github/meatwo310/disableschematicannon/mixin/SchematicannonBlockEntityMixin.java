@@ -1,7 +1,6 @@
 package io.github.meatwo310.disableschematicannon.mixin;
 
 import com.simibubi.create.content.schematics.cannon.SchematicannonBlockEntity;
-import io.github.meatwo310.disableschematicannon.command.DisableSchematicannonCommand;
 import io.github.meatwo310.disableschematicannon.config.ServerConfig;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
